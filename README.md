@@ -1,0 +1,20 @@
+# Modul3-PHP
+Latihan 1
+![alt text](https://github.com/GhufronAndriansyah/Modul3-PHP/blob/master/Latihan1.png)
+Latihan 2
+![alt text](https://github.com/GhufronAndriansyah/Modul3-PHP/blob/master/Latihan2.png)
+Latihan 3
+![alt text](https://github.com/GhufronAndriansyah/Modul3-PHP/blob/master/Latihan3.png)
+Latihan 4
+![alt text](https://github.com/GhufronAndriansyah/Modul3-PHP/blob/master/Latihan4.png)
+Latihan 5
+![alt text](https://github.com/GhufronAndriansyah/Modul3-PHP/blob/master/Latihan5.png)
+Latihan 6
+![alt text](https://github.com/GhufronAndriansyah/Modul3-PHP/blob/master/Latihan6.png)
+Tugas Modul 3
+![alt text](https://github.com/GhufronAndriansyah/Modul3-PHP/blob/master/LoginForm(1).png)
+![alt text](https://github.com/GhufronAndriansyah/Modul3-PHP/blob/master/TerusanLogin(1).png)
+![alt text](https://github.com/GhufronAndriansyah/Modul3-PHP/blob/master/LoginForm(2).png)
+![alt text](https://github.com/GhufronAndriansyah/Modul3-PHP/blob/master/TerusanLogin(2).png)
+![alt text](https://github.com/GhufronAndriansyah/Modul3-PHP/blob/master/DaftarAkun.png)
+![alt text](https://github.com/GhufronAndriansyah/Modul3-PHP/blob/master/TampilanDaftarAkun.png)
